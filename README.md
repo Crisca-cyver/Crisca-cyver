@@ -39,8 +39,7 @@ Apps JavaScript – Validaciones, APIs y componentes reutilizables
 
 💼 LinkedIn: https://www.linkedin.com/in/cristian-carrizo-b15801100
 
-🌐 Portfolio https://github.com/Crisca-cyver/portfolio-astro
-
+🌐 Portfolio https://portfolio-astro-seven-ruddy.vercel.app/
 🛠 Filosofía
 
 Código claro, mejoras constantes y soluciones que aporten valor.
