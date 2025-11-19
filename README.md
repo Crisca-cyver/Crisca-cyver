@@ -1,71 +1,46 @@
 Cristian Carrizo
+Software Developer · Python · Android · Web Development
+🧩 Sobre mí
 
-Desarrollador Web · Front-End · WordPress · JavaScript
+Desarrollador de software enfocado en crear aplicaciones eficientes, con código limpio y mantenible. Experiencia en Python, Android Studio, tecnologías web y manejo de bases de datos.
+Me motiva aprender, mejorar y construir soluciones que realmente funcionen.
 
+🚀 Stack principal
 
----
+Lenguajes:
+Python · JavaScript · PHP · SQL · Java
 
-Sobre mí
+Web:
+HTML5 · CSS3 · SASS · Bootstrap · WordPress
 
-Soy desarrollador web con formación en Programación Web Fullstack y experiencia construyendo sitios, aplicaciones y funcionalidades utilizando HTML, CSS, JavaScript, PHP, SQL, SASS y WordPress.
-Me enfoco en desarrollar interfaces claras, accesibles y eficientes, con código mantenible y buenas prácticas.
+Mobile:
+Android Studio · Kotlin / Java
 
-Actualmente continúo perfeccionando mis habilidades en WordPress, Bootstrap, SASS, MongoDB y Git, mientras participo en proyectos que me permiten seguir creciendo profesionalmente.
+Herramientas:
+Git · GitHub · VS Code · Figma · Terminal
 
+📌 Proyectos
 
----
+E-commerce Delivery – Frontend + Backend + DB
 
-Tecnologías y herramientas
+App Android (en desarrollo) – Arquitectura modular, vistas dinámicas
 
-Frontend
-HTML5 CSS3 SASS Bootstrap JavaScript (ES6+)
+Scripts en Python – Automatización y utilidades reales
 
-Backend
-PHP MySQL WordPress
+Sitios WordPress – Optimización, personalización y secciones dinámicas
 
-Herramientas
-Git GitHub VS Code Figma Terminal
+Apps JavaScript – Validaciones, APIs y componentes reutilizables
 
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Crisca-cyver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="55%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crisca-cyver&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="40%" /> </div>
+📬 Contacto
 
----
-
-Proyectos destacados
-
-E-commerce de Delivery
-
-Desarrollo completo: interfaz, lógica de compra y panel administrativo. Integración con base de datos.
-
-Sitios Web con WordPress
-
-Maquetación, personalización de temas, creación de secciones dinámicas y optimización de rendimiento.
-
-Aplicaciones Web con JavaScript
-
-Validaciones avanzadas, manejo de eventos, componentes modulares y uso de APIs básicas.
-
-
----
-
-Estadísticas de GitHub
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Crisca-cyver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="55%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crisca-cyver&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="40%" /></div>
----
-
-Contacto
-
-📧 Email: crisca@outlook.com 
-
-🌐 Portfolio (próximamente)
+📧 crisca@outlook.com
 
 💼 LinkedIn: https://www.linkedin.com/in/cristian-carrizo-b15801100
 
+🌐 Portfolio pronto
 
+🛠 Filosofía
 
----
-
-Enfoque profesional
-
-Comprometido con la mejora continua, la escritura de código limpio, la documentación clara y la entrega responsable de cada proyecto.
-Busco oportunidades que me permitan aportar valor, crecer en entornos reales y seguir especializándome en desarrollo web.
-
-
+Código claro, mejoras constantes y soluciones que aporten valor.
