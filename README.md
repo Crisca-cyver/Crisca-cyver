@@ -16,7 +16,7 @@ Me motiva aprender, mejorar y construir soluciones que realmente funcionen.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,aws,figma,cpp,java,astro,php,py,css,tailwind,sass,html,ts,js,react,jquery,npm,nodejs,mysql,sqlite,firebase,git,github,vecel,visualstudio,windows,wordpress,docker,postman,vscode,bash,linux,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,aws,figma,cpp,java,astro,php,py,css,tailwind,sass,html,ts,js,react,jquery,npm,nodejs,mysql,sqlite,firebase,git,github,vecel,visualstudio,windows,wordpress,docker,postman,vscode,bash,linux,&perline=11" />
   </a>
 </p>
 <br>
